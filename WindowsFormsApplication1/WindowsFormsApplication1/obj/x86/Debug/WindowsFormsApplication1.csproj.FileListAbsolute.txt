@@ -1,0 +1,9 @@
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 1\Lab4P1\Lab4P2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 1\Lab4P1\Lab4P2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 1\Lab4P1\Lab4P2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 1\Lab4P1\Lab4P2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 1\Lab4P1\Lab4P2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 1\Lab4P1\Lab4P2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 1\Lab4P1\Lab4P2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 1\Lab4P1\Lab4P2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 1\Lab4P1\Lab4P2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
