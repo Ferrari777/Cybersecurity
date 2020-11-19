@@ -6,3 +6,11 @@ C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 2\Aff
 C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 2\Affine cipher\Affine cipher\obj\x86\Debug\Affine cipher.exe
 C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 2\Affine cipher\Affine cipher\obj\x86\Debug\Affine cipher.pdb
 C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 2\Affine cipher\Affine cipher\obj\x86\Debug\Affine cipher.csprojResolveAssemblyReference.cache
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 4\Part2\Affine cipher\Affine cipher\obj\x86\Debug\Affine cipher.exe
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 4\Part2\Affine cipher\Affine cipher\obj\x86\Debug\Affine cipher.pdb
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 4\Part2\Affine cipher\Affine cipher\bin\Debug\Affine cipher.exe
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 4\Part2\Affine cipher\Affine cipher\bin\Debug\Affine cipher.pdb
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 4\Part2\Affine cipher\Affine cipher\obj\x86\Debug\Affine cipher.csprojResolveAssemblyReference.cache
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 4\Part2\Affine cipher\Affine cipher\obj\x86\Debug\Affine_cipher.Form1.resources
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 4\Part2\Affine cipher\Affine cipher\obj\x86\Debug\Affine_cipher.Properties.Resources.resources
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 4\Part2\Affine cipher\Affine cipher\obj\x86\Debug\Affine cipher.csproj.GenerateResource.Cache
