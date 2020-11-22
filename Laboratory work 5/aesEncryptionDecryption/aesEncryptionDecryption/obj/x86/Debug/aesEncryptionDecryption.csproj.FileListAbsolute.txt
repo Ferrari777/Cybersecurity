@@ -1,0 +1,8 @@
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 5\aesEncryptionDecryption\aesEncryptionDecryption\bin\Debug\aesEncryptionDecryption.exe
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 5\aesEncryptionDecryption\aesEncryptionDecryption\bin\Debug\aesEncryptionDecryption.pdb
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 5\aesEncryptionDecryption\aesEncryptionDecryption\obj\x86\Debug\aesEncryptionDecryption.Form1.resources
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 5\aesEncryptionDecryption\aesEncryptionDecryption\obj\x86\Debug\aesEncryptionDecryption.Properties.Resources.resources
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 5\aesEncryptionDecryption\aesEncryptionDecryption\obj\x86\Debug\aesEncryptionDecryption.csproj.GenerateResource.Cache
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 5\aesEncryptionDecryption\aesEncryptionDecryption\obj\x86\Debug\aesEncryptionDecryption.exe
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 5\aesEncryptionDecryption\aesEncryptionDecryption\obj\x86\Debug\aesEncryptionDecryption.pdb
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 5\aesEncryptionDecryption\aesEncryptionDecryption\obj\x86\Debug\aesEncryptionDecryption.csprojResolveAssemblyReference.cache

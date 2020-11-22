@@ -7,3 +7,5 @@ C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 1\Lab
 C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 1\Lab4P1\Lab4P2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
 C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 1\Lab4P1\Lab4P2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
 C:\Users\Petr\Documents\Visual Studio 2010\Projects\Laboratory work 4\Part 1\Lab4P1\Lab4P2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 4\Part1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Petr\Documents\Visual Studio 2010\Projects\ProjectLab4\Cybersecurity\Laboratory work 4\Part1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
